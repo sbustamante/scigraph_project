@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="195.27975mm"
-   height="228.54195mm"
-   viewBox="0 0 195.27975 228.54195"
+   height="240.74507mm"
+   viewBox="0 0 195.27975 240.74508"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="166.28755"
-     inkscape:cy="751.78163"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-294.7462"
+     inkscape:cy="285.19402"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,6 +86,11 @@
        id="path893"
        inkscape:connector-curvature="0" />
     <path
+       style="fill:#88aa00;stroke:#660080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 139.82975,105.03467 62.313154,103.16691"
+       id="path901-3"
+       inkscape:connector-curvature="0" />
+    <path
        style="fill:#ff6600;stroke:#ff6600;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 115.11719,136.40022 27.52876,-15.7689"
        id="path897"
@@ -99,6 +104,11 @@
        style="fill:#88aa00;stroke:#88aa00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 123.68592,54.113394 -58.264748,43.8322"
        id="path901"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d40000;stroke:#660080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 80.988975,135.34768 58.893498,112.51355"
+       id="path891-6"
        inkscape:connector-curvature="0" />
     <circle
        style="fill:#5fbcd3;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
@@ -188,17 +198,22 @@
          x="11.949419"
          y="236.27809"
          style="font-size:7.05555534px;stroke-width:0.26458332"
-         id="tspan968">journal 4          Discipline 3, Discipline 4</tspan></text>
+         id="tspan968">journal 4          Discipline 3, Discipline 4</tspan><tspan
+         sodipodi:role="line"
+         x="11.949419"
+         y="249.50726"
+         style="font-size:7.05555534px;stroke-width:0.26458332"
+         id="tspan867">journal 5          Discipline 1, Discipline 4, Discipline 5</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect982"
        width="194.27975"
-       height="66.34684"
+       height="78.549965"
        x="7.4137058"
        y="173.97292" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 53.148823,239.80946 c 0,-65.83648 0,-65.83648 0,-65.83648"
+       d="m 53.148823,251.91872 c 0,-77.94573 0,-77.94573 0,-77.94573"
        id="path999"
        inkscape:connector-curvature="0" />
     <path
@@ -221,14 +236,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.13125467px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.10328136"
-       x="105.48744"
-       y="-70.5905"
+       x="100.09196"
+       y="-70.694366"
        id="text1005-3"
        transform="rotate(77.587405)"><tspan
          sodipodi:role="line"
          id="tspan1003-6"
-         x="105.48744"
-         y="-70.5905"
+         x="100.09196"
+         y="-70.694366"
          style="fill:#ff6600;stroke-width:0.10328136">Journal 2</tspan></text>
     <path
        style="fill:#ff6600;stroke:#ff6600;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -343,5 +358,31 @@
          x="140.60715"
          y="161.68451"
          style="font-size:14.11111069px;stroke-width:0.26458332">Field 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.13125467px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#660080;fill-opacity:1;stroke:none;stroke-width:0.10328136"
+       x="127.71617"
+       y="32.430782"
+       id="text1005-7"
+       transform="rotate(45.890041)"><tspan
+         sodipodi:role="line"
+         id="tspan1003-5"
+         x="127.71617"
+         y="32.430782"
+         style="fill:#660080;stroke-width:0.10328136">Journal 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.13125467px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#660080;fill-opacity:1;stroke:none;stroke-width:0.10328136"
+       x="103.14867"
+       y="98.952202"
+       id="text1005-7-3"
+       transform="rotate(1.5158122)"
+       inkscape:transform-center-x="-0.47716466"
+       inkscape:transform-center-y="0.25932922"><tspan
+         sodipodi:role="line"
+         id="tspan1003-5-5"
+         x="103.14867"
+         y="98.952202"
+         style="fill:#660080;stroke-width:0.10328136">Journal 5</tspan></text>
   </g>
 </svg>
